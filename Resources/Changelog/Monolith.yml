@@ -13663,3 +13663,10 @@ Entries:
   id: 1512
   time: '2025-11-04T12:57:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2557
+- author: Avalon-Proto
+  changes:
+    - type: Tweak
+      message: Fixed some issues w/ Sevastapol
+  id: 1513
+  time: '2025-11-05T12:56:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2560
